@@ -30,9 +30,7 @@
 -	다음 28 개의 라인: 각 라인은 28 개의 정수를 가진다.  28X 28 의  이미지 정보를 나타낸다.
 
 
-[3] 시스템의 구성은 다음과 같다
-
-전체 시스템은 training part 와 testing part 로 구성되어 있다
+[2] 전체 시스템은 training part 와 testing part 로 구성되어 있다
 
 (가) training part:
 
